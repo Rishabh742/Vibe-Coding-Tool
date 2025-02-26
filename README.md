@@ -48,7 +48,7 @@ How It Works:
  (2) They can copy the component code and use it in their own projects.
  (3) The library can be expanded with more UI elements.
 
-4. Smart Code Explanation (Coming Soon)
+4. Smart Code Explanation
    Purpose:
  Helps developers understand complex code snippets by providing real-time explanations.
 
