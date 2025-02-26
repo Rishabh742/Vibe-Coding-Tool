@@ -1,3 +1,4 @@
+Introduction
 The Wipecoding Tool is a web application designed to enhance the coding experience by fostering a positive, creative, and engaging environment. It incorporates features that make coding feel effortless and enjoyable, focusing on clean UI, smooth development flow, and seamless integration of external tools. The project is built using React (Next.js), Framer Motion, Spotify Web Playback API, and Tailwind CSS for styling.
 
 Project Features & Explanation
@@ -58,7 +59,7 @@ Implementation:
  (3) Uses AI-driven natural language processing (NLP) to generate explanations.
  (4) Might integrate with ChatGPT API or Code Analysis Libraries.
 
-5. Future Enhancements:
+ Future Enhancements:
  (1) Auto-generate comments for code snippets.
  (2) Offer syntax highlighting for better readability.
  (3) Provide alternative, optimized code suggestions.
